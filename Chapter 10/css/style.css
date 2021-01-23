@@ -1,0 +1,74 @@
+body{
+    background-color: white;
+}
+td{
+    border: 2px solid black;
+    padding: 8px;
+}
+#heading{
+    text-align: center;
+    font-weight: bold;
+}
+
+#firstTable{
+    border: 2px solid black;
+    width: 100%;
+}
+#secondTable{
+    border: 2px solid black;
+    width: 90%;
+}
+
+.peach{
+    background-color: rgb(255, 127, 80);
+    font-size: 18px
+}
+.pink{
+    background-color: rgb(218, 112, 214);
+    font-size: 18px;
+}
+.purple{
+    background-color: rgb(123, 104, 238);
+    font-size: 18px;
+}
+.yellow{
+    background-color: rgb(225, 215, 0);
+    font-size: 18px;
+}
+.blue{
+    background-color: rgb(100, 149, 237);
+    font-size: 18px;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: rgb(46, 139, 87);
+    font-size: 18px;
+}
+.brown{
+    background-color: rgb(160, 82, 45);
+    font-size: 18px;
+}
+.pink2{
+    background-color: rgb(250, 128, 114);
+    font-size: 18px;
+}
+.mustard{
+    background-color: rgb(218, 165, 32);
+    font-size: 18px;
+}
+.lightpink{
+    background-color: rgb(255, 182, 193);
+    font-size: 18px;
+}
+td:hover{
+    font-size: 150%;
+    border: 3px solid black;
+}
+
+
+
+
+
+
