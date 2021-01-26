@@ -19,28 +19,34 @@ body {
 }
 
 .icons a {
-    font-size: 20px;
+    font-size: 15px;
     transition: color 1s ease;
     color: #ffffff;
+    text-decoration: none;
 }
 
 .icons a:hover {
     color: rgb(1, 126, 134)
 }
 
-.number {
-    /* display: flex; */
-    color: white;
-    margin-right: 10px;
-    margin-left: 20px;
-}
 
-.number-icons {
+/* .number .a { */
+
+
+/* display: flex; */
+
+
+/* color: white;
+   margin-right: 10px;
+   margin-left: 20px;
+} 
+
+.number-icons .a {
     margin-right: 6px;
     margin-left: 20px;
     color: white;
     font-size: 15px;
-}
+}*/
 
 .nav-btn {
     margin: 0px 9px;
@@ -282,6 +288,12 @@ h1 {
 
 
 /*Reviews */
+
+.section-4 {
+    background: white;
+    padding: 10px 20px;
+    transition: padding 2s ease;
+}
 
 .section-4 .container h1 {
     font-size: 6vmin;
